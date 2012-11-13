@@ -41,6 +41,7 @@ var modesByName = {
     coldfusion: ["ColdFusion"   , "cfm"],
     csharp:     ["C#"           , "cs"],
     css:        ["CSS"          , "css"],
+    dart:       ["Dart"         , "dart"],
     diff:       ["Diff"         , "diff|patch"],
     glsl:       ["Glsl"         , "glsl|frag|vert"],
     golang:     ["Go"           , "go"],
@@ -58,6 +59,7 @@ var modesByName = {
     jsx:        ["JSX"          , "jsx"],
     latex:      ["LaTeX"        , "latex|tex|ltx|bib"],
     less:       ["LESS"         , "less"],
+    lisp:       ["Lisp"         , "lisp"],
     liquid:     ["Liquid"       , "liquid"],
     lua:        ["Lua"          , "lua"],
     luapage:    ["LuaPage"      , "lp"], // http://keplerproject.github.com/cgilua/manual.html#templates
@@ -76,6 +78,7 @@ var modesByName = {
     scss:       ["SCSS"         , "scss|sass"],
     sh:         ["SH"           , "sh|bash|bat"],
     sql:        ["SQL"          , "sql"],
+    stylus:     ["Stylus"       , "styl|stylus"],
     svg:        ["SVG"          , "svg"],
     tcl:        ["Tcl"          , "tcl"],
     text:       ["Text"         , "txt"],
